@@ -1,6 +1,6 @@
 # KDD-Group-4-Project
 
-### Mahesh HS, Rujul Joshi , Rutul Joshi, Tharani Kumaresan, Tejal Devkule, Samanwitha Lakkadi
+### Team Members : Mahesh HS, Rujul Joshi , Rutul Joshi, Tharani Kumaresan, Tejal Devkule, Samanwitha Lakkadi
 
 ### Introduction to Problem or Opportunity
   
