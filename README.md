@@ -23,14 +23,7 @@
 ##### Which price predictors  can be the deciding factor used to anticipate price changes, more clearly?
 ##### Outcome:building year , furnish, located in shop, no of rooms, and non contagious area
 
-##### And in the wake of COVID, the flight of people from densely populated cities in states 
-##### like New York and New Jersey has been fueled by fear of virus transmission, 
-##### as well as newfound flexibility thanks to work-from-home policies.For those who’ve 
-##### transitioned to permanent work-from-home status, the freedom to ditch high 
-##### rents or mortgage costs in major cities for more affordable locations
-##### has proved tempting. Thus we need to study 
-##### what are the reasons of inbound moves and  how popularity of a relocation 
-##### destination have impacted real estate market?
+##### in the wake of COVID, the flight of people from densely populated cities in states,like New York and New Jersey has been fueled by fear of virus transmission, as well as newfound flexibility thanks to work-from-home policies.For those who’ve transitioned to permanent work-from-home status, the freedom to ditch high rents or mortgage costs in major cities for more affordable locationshas proved tempting. Thus we need to study what are the reasons of inbound moves and  how popularity of a relocation,destination have impacted real estate market?
 
 ### Data Resources
 Initial paper : https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00476-0
