@@ -11,6 +11,18 @@
 
 ##### As  with Covid-19, Due to falling mortgage rates , the cost of borrowing money to buy a house is dropping. Also for people whose jobs weren’t negatively impacted were able to save more during quarantine times. Hence we need to study the Equity position of homebuyers and if there is any possibility of market to downturning post pandemic?
 
+##### During a pandemic which houses will have a maximum drop down in price?and why?
+##### Outcome :max distance to shop ,school and out of cities.
+
+##### In which month will the maximum price drop or increase for rent and selling options?
+##### Outcome:the month in which a pandemic has many cases, the price will increase.
+
+##### Is it safe to expect that time-on-market (TOM) will have an unfavorable impact on price change?
+##### Outcome: it will indirectly impact the sale options of housing .
+
+##### Which price predictors  can be the deciding factor used to anticipate price changes, more clearly?
+##### Outcome:building year , furnish, located in shop, no of rooms, and non contagious area
+
 ### Data Resources
 Initial paper : https://journalofbigdata.springeropen.com/articles/10.1186/s40537-021-00476-0
 ##### proposed Data Set : https://drive.google.com/drive/folders/1WbxRlMnzmZLU2u1RfO4txaz1B0DKo1Lh?usp=sharing
