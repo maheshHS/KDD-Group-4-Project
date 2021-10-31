@@ -15,4 +15,4 @@
 
 ### Data Resources
 ##### Article link : https://www.redfin.com/news/data-center/
-##### proposed Data Set : https://drive.google.com/drive/folders/1WbxRlMnzmZLU2u1RfO4txaz1B0DKo1Lh?usp=sharing
+##### Data Set : https://drive.google.com/drive/folders/1WbxRlMnzmZLU2u1RfO4txaz1B0DKo1Lh?usp=sharing
