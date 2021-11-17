@@ -13,6 +13,10 @@
 ##### Is it safe to expect that time-on-market (TOM) will have an unfavorable impact on price change?.
 ##### During the pandemic, which predictors can be the deciding factor used to anticipate price changes, more clearly?
 
+### Stage 2 Code 
+##### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18hPXngk_eccdJhUNni-OAqzfSx5f1mdq?usp=sharing)
+
+
 ### Data Resources
 ##### Article link : https://www.redfin.com/news/data-center/
 ##### Data Set : https://drive.google.com/drive/folders/1WbxRlMnzmZLU2u1RfO4txaz1B0DKo1Lh?usp=sharing
