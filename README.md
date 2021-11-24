@@ -13,7 +13,11 @@
 ##### Is it safe to expect that time-on-market (TOM) will have an unfavorable impact on price change?.
 ##### During the pandemic, which predictors can be the deciding factor used to anticipate price changes, more clearly?
 
-### Stage 2 Code 
+### Stage 2 
+### Data Preprocessing
+#### For data preprocessing we hav extracted the only the required columns from the data set and for the missing data we have imputed the missing values with mean/median.
+### Data Understanding and Exploration
+#### We have visulized the data set using seaborn in google colab, please find the python notebook below.(Note : the file is shared to all people with uncc.edu account, please access the the file with your logged in uncc account)  
 ##### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18hPXngk_eccdJhUNni-OAqzfSx5f1mdq?usp=sharing)
 
 
