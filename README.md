@@ -19,6 +19,8 @@
 ### Data Understanding and Exploration
 #### We have visulized the data set using seaborn in google colab, please find the python notebook below.(Note : the file is shared to all people with uncc.edu account, please access the the file with your logged in uncc account)  
 ##### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18hPXngk_eccdJhUNni-OAqzfSx5f1mdq?usp=sharing)
+### Data Preparation for Modeling
+#### The main Data set is partiotined such that the 80% is used for training and the remaining 20% for testing.
 
 
 ### Data Resources
