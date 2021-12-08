@@ -1,6 +1,6 @@
 # KDD-Group-4-Project
 
-### Team Members : Mahesh HS, Rujul Joshi , Rutul Joshi, Tharani Kumaresan, Tejal Devkule, Samanwitha Lakkadi, Gunakar Maddi.
+### Team Members : Mahesh HS, Rujul Joshi , Rutul Joshi, Tharani Kumaresan, Tejal Devkule, Samanwitha Lakkadi, Gunakar Maddi, Prathima.
 
 ### Introduction to Problem or Opportunity
 ##### Amid all the uncertainty brought on by COVID-19, the pandemic has re-ordered real estate markets across the board on an unprecedented scale. No one could have predicted it. Not the economists, not the real estate agents, and especially not the nation’s homebuilders. But a pandemic definitely caused an emotional run on housing and more than one year after the Covid-19 crisis shut down and warped so much of American life, things are still unpredictable, but the outlook isn’t bright for housing. Home prices are overheated, mortgage rates are rising, the supply of homes for sale is anemic and consumer confidence in the housing market is falling.
