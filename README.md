@@ -22,6 +22,9 @@
 ### Data Preparation for Modeling
 #### The main Data set is partiotined such that the 80% is used for training and the remaining 20% for testing.
 
+### Stage 3
+#### [![Open In Colab](https://colab.research.google.com/drive/1QOYGkaR89PmuEH1akaA670bIhcz6NKI9?usp=sharing)
+
 
 ### Data Resources
 ##### Article link : https://www.redfin.com/news/data-center/
