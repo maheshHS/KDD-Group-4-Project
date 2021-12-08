@@ -23,7 +23,7 @@
 #### The main Data set is partiotined such that the 80% is used for training and the remaining 20% for testing.
 
 ### Stage 3
-#### [![Open In Colab](https://colab.research.google.com/drive/1QOYGkaR89PmuEH1akaA670bIhcz6NKI9?usp=sharing)
+#### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QOYGkaR89PmuEH1akaA670bIhcz6NKI9?usp=sharing)
 
 
 ### Data Resources
