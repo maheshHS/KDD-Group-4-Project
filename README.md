@@ -23,11 +23,15 @@
 #### The main Data set is partiotined such that the 80% is used for training and the remaining 20% for testing.
 
 ### Stage 3
-#### Model Summaray : We have used ANN Model, we have split our data to 80% for the training and 20% for testing. We have used a network with 4 hidden layers and for optimization function, we have used Adam Optimizer with learning rate of 0.001, we ran the training for 500 epochs and batch size of 32.
+### Modeling
+#### We have used ANN Model, we have split our data to 80% for the training and 20% for testing. We have used a network with 4 hidden layers and for optimization function, we have used Adam Optimizer with learning rate of 0.001, we ran the training for 500 epochs and batch size of 32.
+
+
+### Evaluation and Results
+#### For the test dataset our model had the loss of 0.0153 and mean squared error of 0.015, the results and graphs are in the below colab notebook.
 #### (Note : the file is shared to all people with uncc.edu account, please access the the file with your logged in uncc account)
 #### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QOYGkaR89PmuEH1akaA670bIhcz6NKI9?usp=sharing)
 
 
 ### Data Resources
-##### Article link : https://www.redfin.com/news/data-center/
 ##### Data Set : https://drive.google.com/drive/folders/1WbxRlMnzmZLU2u1RfO4txaz1B0DKo1Lh?usp=sharing
