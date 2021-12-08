@@ -24,6 +24,7 @@
 
 ### Stage 3
 #### Model Summaray : We have used ANN Model, we have split our data to 80% for the training and 20% for testing. We have used a network with 4 hidden layers and for optimization function, we have used Adam Optimizer with learning rate of 0.001, we ran the training for 500 epochs and batch size of 32.
+#### (Note : the file is shared to all people with uncc.edu account, please access the the file with your logged in uncc account)
 #### [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QOYGkaR89PmuEH1akaA670bIhcz6NKI9?usp=sharing)
 
 
